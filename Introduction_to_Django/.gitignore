@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Django Stuff
+db.sqlite3
+*.log
+local_settings.py
+media/
+staticfiles/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files (secrets)
+.env
+*.env
+
+# Coverage/testing
+htmlcov/
+.coverage
+.pytest_cache/
